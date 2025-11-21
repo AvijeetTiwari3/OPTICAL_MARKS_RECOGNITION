@@ -80,6 +80,8 @@ OPTICAL_MARKS_RECOGNITION/
 
 # Output of the project 
 
+![image alt](https://github.com/AvijeetTiwari3/OPTICAL_MARKS_RECOGNITION/blob/main/Screenshot%202025-11-21%20144947.png?raw=true)
+
 
 # Future Improvements 
 
